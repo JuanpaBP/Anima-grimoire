@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "cliente.nombre",
+    "type": "java.lang.String",
+    "description": "A description for 'cliente.nombre'"
+  },
+  {
+    "name": "cliente.apellido",
+    "type": "java.lang.String",
+    "description": "A description for 'cliente.apellido'"
+  },
+  {
+    "name": "cliente.fecNac",
+    "type": "java.lang.String",
+    "description": "A description for 'cliente.fecNac'"
+  },
+  {
+    "name": "cliente.edad",
+    "type": "java.lang.String",
+    "description": "A description for 'cliente.edad'"
+  },
+  {
+    "name": "cliente.dni",
+    "type": "java.lang.String",
+    "description": "A description for 'cliente.dni'"
+  },
+  {
+    "name": "cliente.sexo",
+    "type": "java.lang.String",
+    "description": "A description for 'cliente.sexo'"
+  },
+  {
+    "name": "factura.descripcion",
+    "type": "java.lang.String",
+    "description": "A description for 'factura.descripcion'"
+  },
+  {
+    "name": "cliente.fecNac",
+    "type": "java.lang.String",
+    "description": "A description for 'cliente.fecNac'"
+  }
+]}
